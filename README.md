@@ -1,6 +1,6 @@
 # A Comparative Analysis of ANOVA and PCA for Modelling Credit Card Fraud Detection using Machine Learning
 
-#Table of Contents : 
+Table of Contents : 
 1.Introduction
 2.Project Overview
 3.Dataset
@@ -10,7 +10,7 @@
 7.Installation
 
 
-#1.Introduction:
+1.Introduction:
   This project explores the effectiveness of two statistical techniques, ANOVA (Analysis of Variance) and PCA (Principal Component Analysis), in the context of credit card fraud detection. By comparing these methods, we aim to determine which technique provides better modeling performance in identifying fraudulent transactions.
 
 2.Project Overview:
